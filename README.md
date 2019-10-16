@@ -1,4 +1,4 @@
-# Publick Key / Private Key Demo
+# Public Key / Private Key Demo
 A web-based demonstration of public / private key pair concepts.
 
 [![Blockchain 101 - Demo](https://img.youtube.com/vi/xIDL_akeras/0.jpg)](https://www.youtube.com/watch?v=xIDL_akeras)
